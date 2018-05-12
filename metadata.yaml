@@ -1,0 +1,32 @@
+_repo: Jesus-Fulfils-the-Law_36425
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2011-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ'
+tableOfContents: How Jesus fulfilled the law -- Provisions for the pardon of sin,
+  and reconciliation under the law -- The Hebrew sacrifices from the Christian point
+  of view.  The sacrifice of Christ their true complement -- Testimony of the Old
+  Testament prophecies to Jesus Christ as the Messiah -- The Gospel of Christ.
+title: Jesus Fulfils the Law
+url: http://www.gutenberg.org/ebooks/36425
